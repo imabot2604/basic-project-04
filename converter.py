@@ -1,0 +1,3 @@
+def km_to_miles(km): return km * 0.621371
+if __name__ == "__main__":
+    print("10km in miles:", km_to_miles(10))
